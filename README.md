@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"
-
+<img src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif"  alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek805122&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek805122" /> </p>
 
 - 🌱 I’m currently learning **Full stack development**
